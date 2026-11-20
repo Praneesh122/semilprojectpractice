@@ -1,0 +1,3 @@
+1. Pizza - 150
+2. Burger - 100
+3. Pasta - 120
